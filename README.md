@@ -1,6 +1,10 @@
 # amit25-26
 # 💫 About Me:
-i am looking for jobs<br>
+Embedded Systems Engineer with 1.5 years of experience in the Automotive industry and Smart City
+projects. Skilled in MCU-based system design, embedded software development, and telematics GUI
+applications using Qt. good in IPC mechanisms, debugging complex systems, and managing full software
+development lifecycles. Strong collaborator with a proven record of delivering innovative and reliable
+technology solutions.<br>
 
 
 ## 🌐 Socials:
