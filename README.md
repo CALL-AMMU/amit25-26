@@ -3,7 +3,9 @@
 Embedded Systems Engineer with 2 years of experience in the Automotive industry and Smart City
 projects. Skilled in MCU-based system design, embedded software development, and telematics GUI
 applications using Qt. good in IPC mechanisms, debugging complex systems, and managing full software
-development lifecycles. Strong collaborator with a proven record of delivering innovative and reliable
+development lifecycles(SDLC). Currently working on in Aerospace technology linux based embedded 
+networking solutions Using C and C++, Network diagnostics, configuration management, Docker, RabbitMQ,
+Ycoto, Strong collaborator with a proven record of delivering innovative and reliable
 technology solutions.<br>
 
 
